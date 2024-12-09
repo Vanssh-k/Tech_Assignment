@@ -1,12 +1,12 @@
 ## Getting Started
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Vanssh-k/Tech_Assignment.git
    ```
 
 2. **Navigate to the Project Directory**  
    ```bash
-   cd your-repo
+   cd Tech_Assignment
    ```
 
 3. **Start the Application (Building Docker Compose)**  
